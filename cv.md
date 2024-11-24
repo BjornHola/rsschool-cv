@@ -1,5 +1,7 @@
 # Versinin Egor Andreevich #
 
+![Image](https://D/wrk/Image241018074522-0001.jpg)
+
 ## Personal and contact information ##
 Date and place of birth: 20-05-1990, Poltava, Ukraine<br>
 Currently base on: Gomel, Belarus
@@ -36,8 +38,18 @@ Also have some command of Spanish - mostly speaking Spanish as studied this myse
 ## Computing skills ##
 - currently a learner in RSSchool: course "JS/Front-end. RU"
 
-## Code ##
-
-
 ## My projects ##
 <https://github.com/BjornHola/rsschool-cv.git>
+
+
+## Code ##
+My code is here:<br>
+```javascript
+ function multiply(a, b){
+    return a * b;
+}
+multiply(2,3);```
+
+
+
+
