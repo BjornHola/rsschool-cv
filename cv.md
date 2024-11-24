@@ -43,6 +43,9 @@ Also have some command of Spanish - mostly speaking Spanish as studied this myse
 
 
 ## Code ##
+
+Given task implied to fix a function that couldn't work pproperly. As followed then "return" directory was absent in the code, so this caused disfunctioning of the multiply.
+
 My code is here:<br>
 ```javascript
  function multiply(a, b){
