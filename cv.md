@@ -1,6 +1,6 @@
 # **Versinin Egor Andreevich** #
 
-![Image](https://D/wrk/Image241018074522-0001.jpg)
+![Image](https://www.dropbox.com/scl/fi/cobww8g5dlxmqt28cn0ym/Image241018074522-0001.jpg?rlkey=gzn34cj1md93r5xsxcr8d1bs4&st=558e9dg2&dl=0)
 
 ## **Personal and contact information** ##
 
