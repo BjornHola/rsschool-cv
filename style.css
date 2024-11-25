@@ -1,15 +1,50 @@
 body {
-    background: "lightblue";
+    background-color: rgb(221, 227, 228);
 }
 h1 {
     font-weight: 700;
-    font-size: 1.8rem;
+    font-size: 1.9rem;
+    font-family: serif;
+    text-align: justify;
 }
 h2 {
     font-weight: 600;
-    font-size: 1.7rem;
+    font-size: 1.6rem;
+    font-family: serif;
+    text-align: justify;
 }
 h3 {
     font-weight: 500;
     font-size: 1.4rem;
+    font-family: serif;
+    text-align: justify;
 }
+<div class="border">
+     <img src=https://www.dropbox.com/scl/fi/cobww8g5dlxmqt28cn0ym/Image241018074522-0001.jpg?rlkey=gzn34cj1md93r5xsxcr8d1bs4&st=558e9dg2&dl=0" alt="My photo">
+</div>
+.border{
+    border: 2px solid #ff0;
+    height: 600px;
+  }
+  
+  img{
+    position: absolute;
+    width: 200px;
+    height: auto;
+    top: 20px;
+    right: 0px;
+  }
+ p {
+    font-size: 1.1rem;
+    font-family: serif;
+    text-align: justify;
+    }
+ ul {
+    list-style-type: disc;
+    font-size: 1rem;
+    list-style-position: outside;
+  }
+  ol {
+    list-style-position: outside;
+    font-size: 1rem;
+  }
