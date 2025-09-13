@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://github.com/BjornHola/rsschool-cv/cv
+https://github.com/BjornHola/rsschool-cv/cv.md
