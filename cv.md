@@ -38,10 +38,11 @@ Specialized in such topics as "Basics of the Criminal law - Complicity in crimes
 
 ## **Language powered skills** ##
 <p>I have got a good command of English. Currently I'm studying C1 level with my tutor.<br> Also before finished several courses of English:
-* 2011 special course "English for lawyers"(B2)
-* 2016-2017 special course "Language Power Level. English Intermediate"(B1)
-* 2019-2020 special course "English Upper-Intermediate"(B2)
-* since 2021 actively have been studying English with tutor.
+
+* **2011** special course "English for lawyers"(B2)
+* **2016-2017** special course "Language Power Level. English Intermediate"(B1)
+* **2019-2020** special course "English Upper-Intermediate"(B2)
+* **since 2021** actively have been studying English with tutor.
 
 Also have some command of Spanish - mostly speaking Spanish as studied this myself.</p>
 
@@ -51,8 +52,9 @@ Also have some command of Spanish - mostly speaking Spanish as studied this myse
 
 ## **Work experience** ##
 <p>
+
 1. **2013** - a period of probation in bank sphere: BelRosBank (today's Alfa-Bank) as a legal counsel;
-   
+
 2. **2013-2019** - worked as a investigator and senior investigator in the Investigative State Committee of Belarus, Minsk Bureau;
    
 3. **2019-2025** - currently has been working as a legal counsel</p>
