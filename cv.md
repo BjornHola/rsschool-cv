@@ -10,7 +10,7 @@
 ## **Personal and contact information** ##
 
 <p>Date and place of birth: 20-05-1990, Poltava, Ukraine<br>
-Currently based on: Gomel, Belarus
+Currently based on: Minsk, Belarus
 Contact info: +375 44 747 70 54,  
 Email to contact me: broadherstby@gmail.com<br>
 My discord name: bjornhola
@@ -51,9 +51,11 @@ Also have some command of Spanish - mostly speaking Spanish as studied this myse
 
 ## **Work experience** ##
 <p>
-1. 2013 - a period of probation in bank sphere: BelRosBank (today's Alfa-Bank) as a legal counsel;
-2. 2013-2019 - worked as a investigator and senior investigator in the Investigative State Committee of Belarus, Minsk Bureau;
-3. 2019-2025 - currently has been working as a legal counsel</p>
+1. **2013** - a period of probation in bank sphere: BelRosBank (today's Alfa-Bank) as a legal counsel;
+   
+2. **2013-2019** - worked as a investigator and senior investigator in the Investigative State Committee of Belarus, Minsk Bureau;
+   
+3. **2019-2025** - currently has been working as a legal counsel</p>
    
 
 ---  
@@ -68,7 +70,7 @@ Also have some command of Spanish - mostly speaking Spanish as studied this myse
 
 
 ## **My projects** ##
-<https://github.com/BjornHola/Pinterest-clone>
+[My GitHub profile]<https://github.com/BjornHola/Pinterest-clone>
 
 
 ---
