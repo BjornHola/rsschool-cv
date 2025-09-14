@@ -4,12 +4,12 @@
 
 ## **Personal and contact information** ##
 
-Date and place of birth: 20-05-1990, Poltava, Ukraine  
+Date and place of birth: 20-05-1990, Poltava, Ukraine
 Currently based on: Minsk, Belarus
-Contact info: +375 44 747 70 54,  
+Contact info: +375 44 747 70 54,
 Email to contact me: `broadherstby@gmail.com`
 My discord name: bjornhola
-Marital status: single  
+Marital status: single
 
 ### **Self-representing** ###
 
@@ -17,7 +17,7 @@ I'm quite curious about the new realms of the knowledge in my life and always as
 
 ## **Education** ##
 
-Graduated from BSU, Law Faculty, 2013.  
+Graduated from BSU, Law Faculty, 2013.
 Also obtained Master of Law degree, 2017.
 Specialized in such topics as "Basics of the Criminal law - Complicity in crimes" and "Tax crimes in Belarus"
 
