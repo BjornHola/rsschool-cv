@@ -1,3 +1,7 @@
+---
+title: "CV"
+layout: default
+---
 # **Versinin Egor Andreevich** #
 
 ![Photo](https://i.pinimg.com/736x/78/0b/f1/780bf15c9be0d6bc565f12b5d90783e1.jpg)
