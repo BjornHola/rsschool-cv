@@ -2,6 +2,7 @@
 title: "CV"
 layout: default
 ---
+<link rel="stylesheet" href="./style.css">
 
 # Versinin Egor Andreevich
 
