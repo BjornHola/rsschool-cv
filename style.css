@@ -30,6 +30,7 @@ h2 {
 
 p {
   margin-bottom: 1rem;
+  box-sizing: border-box;
 }
 
 ul, ol {
@@ -68,10 +69,9 @@ pre {
   margin-bottom: 1rem;
 }
 
-img {
+body img {
   max-width: 290px;
   height: auto;
   margin-bottom: 1rem;
-  border-radius: 6px;
   object-fit: cover;
 }
