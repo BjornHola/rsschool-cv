@@ -5,7 +5,7 @@ layout: default
 
 # Versinin Egor Andreevich
 
-![Photo](https://i.pinimg.com/736x/78/0b/f1/780bf15c9be0d6bc565f12b5d90783e1.jpg)
+![Photo](./459-1%20copy.jpg)
 
 ## Personal and contact information
 
@@ -20,7 +20,7 @@ Marital status: single
 
 I'm quite curious about the new realms of knowledge in my life and always aspire to discover "new worlds" taking the challenge high and low. I'm striving to step into the world of IT, even having just a humanitarian background. New knowledge and new language command give me a new-scaled scope. My strengths are painstaking and attentive work before I meet the flawless and picture-perfect output. I love thinking outside the box; I can handle multitasking challenges as well as I am able to be resilient, industrious, and work with immense amounts of data.
 
-Currently, I prioritize my learning and training as a JS-developer. My short-term goals are to reach and obtain basic and extended commands of JS, CSS, and HTML.
+Currently, I prioritize my learning and training as a JS-developer. My short-term goals are to reach and obtain basic and then extended commands of JS, CSS, and HTML, then start new career as a JS-developer.
 
 ## Education
 
@@ -42,7 +42,7 @@ Also, I have some command of Spanish - mostly self-study fluent speaking.
 ## Work experience
 
 1. **2013** - probation period in banking sector: BelRosBank (today's Alfa-Bank) as legal counsel;  
-2. **2013-2019** - investigator and senior investigator in Investigative State Committee of Belarus, Minsk Bureau;  
+2. **2013-2019** - investigator and senior investigator in the Investigative State Committee of Belarus, Minsk Bureau;  
 3. **2019-2025** - working currently as a legal counsel.
 
 ## Computing skills
@@ -51,5 +51,5 @@ Also, I have some command of Spanish - mostly self-study fluent speaking.
 
 ## My projects
 
-- [My GitHub profile: Pinterest clone](https://github.com/BjornHola/Pinterest-clone)  
+- [Pinterest clone](https://github.com/BjornHola/Pinterest-clone)  
 - [Blog project](https://github.com/BjornHola/News-blog)
