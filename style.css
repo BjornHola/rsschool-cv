@@ -10,48 +10,51 @@ body {
   text-align: left;
 }
 
-h1, h2, h3, h4 {
+.markdown-body h1,
+.markdown-body h2, 
+.markdown-body h3, 
+.markdown-body h4 {
   margin-bottom: 1rem;
   font-weight: 700;
   color: #222;
 }
 
-h1 {
+.markdown-body h1 {
   font-size: 2.5rem;
   border-bottom: 2px solid #ddd;
   padding-bottom: 0.3rem;
 }
 
-h2 {
+.markdown-body h2 {
   font-size: 2rem;
   border-bottom: 1px solid #eee;
   padding-bottom: 0.2rem;
 }
 
-p {
+.markdown-body p {
   margin-bottom: 1rem;
   box-sizing: border-box;
 }
 
-ul, ol {
+.markdown-body ul, .markdown-body ol {
   margin-left: 1.5rem;
   margin-bottom: 1rem;
 }
 
-li {
+.markdown-body li {
   margin-bottom: 0.5rem;
 }
 
-a {
+.markdown-body a {
   color: #3182ce;
   text-decoration: none;
 }
 
-a:hover {
+.markdown-body a:hover {
   text-decoration: underline;
 }
 
-code {
+.markdown-body code {
   background-color: #f3f4f6;
   padding: 0.2rem 0.4rem;
   border-radius: 4px;
@@ -60,7 +63,7 @@ code {
   color: #d6336c;
 }
 
-pre {
+.markdown-body pre {
   background-color: #2d2d2d;
   color: #f8f8f2;
   padding: 1rem;
@@ -69,7 +72,7 @@ pre {
   margin-bottom: 1rem;
 }
 
- img {
+ .markdown-body img {
   max-width: 290px;
   height: auto;
   margin-bottom: 1rem;
