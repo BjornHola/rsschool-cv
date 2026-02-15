@@ -1,0 +1,80 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f9f9f9;
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.markdown-body h1,
+.markdown-body h2, 
+.markdown-body h3, 
+.markdown-body h4 {
+  margin-bottom: 1rem;
+  font-weight: 700;
+  color: #222;
+}
+
+.markdown-body h1 {
+  font-size: 2.5rem;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.3rem;
+}
+
+.markdown-body h2 {
+  font-size: 2rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.2rem;
+}
+
+.markdown-body p {
+  margin-bottom: 1rem;
+  box-sizing: border-box;
+}
+
+.markdown-body ul, .markdown-body ol {
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.markdown-body li {
+  margin-bottom: 0.5rem;
+}
+
+.markdown-body a {
+  color: #3182ce;
+  text-decoration: none;
+}
+
+.markdown-body a:hover {
+  text-decoration: underline;
+}
+
+.markdown-body code {
+  background-color: #f3f4f6;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.95em;
+  color: #d6336c;
+}
+
+.markdown-body pre {
+  background-color: #2d2d2d;
+  color: #f8f8f2;
+  padding: 1rem;
+  border-radius: 8px;
+  overflow-x: auto;
+  margin-bottom: 1rem;
+}
+
+ .markdown-body img {
+  max-width: 290px;
+  height: auto;
+  margin-bottom: 1rem;
+  object-fit: cover;
+}
